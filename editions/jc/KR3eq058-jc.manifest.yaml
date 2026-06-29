@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3eq058/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq058/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 琉球問答奇病論
+  identifiers:
+    krp: KR3eq058
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq058.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq058_000-jc.yaml, hash: 'sha256:fe73bcd9d09a6aea9a8554fb677b47a593dcb09f3026cd9d4036a0f0857d085e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq058_000-jc.markers.yaml, hash: 'sha256:5967bd476e96ebb1ff63a9696d2d847c7bea1b9b6d3f85772e82d6aa57bab553'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq058_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 9118
+  label: 正文
+  type: section
+  level: 1
+hash: sha256:9865a8aaabf9db2d3328998eb4974fc451950c2bc910f81cb177601c6f8a2d09
